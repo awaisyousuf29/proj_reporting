@@ -267,7 +267,7 @@
 
   <table width="100%">
     <tr>
-        <td valign="top"><img src="" alt="" width="150"/></td>
+        <td valign="top" ><img src="https://img.freepik.com/free-vector/colorful-bird-illustration-gradient_343694-1741.jpg" alt="" width="150"/></td>
         <td align="right">
             <h3>Shinra Electric power company</h3>
             <pre>
